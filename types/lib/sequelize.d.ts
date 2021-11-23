@@ -284,7 +284,7 @@ export interface Options extends Logging {
   timezone?: string;
 
   /**
-   * A flag that defines if null values be passed to SQL queries or not.
+   * A flag that defines if null values should be passed to SQL queries or not.
    *
    * @default false
    */
